@@ -2,7 +2,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chinghsun.github.io/react-gh-pages/",
+  "homepage": "https://chinghsun.github.io/remote-assignments-week4/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.9",
